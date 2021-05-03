@@ -18,7 +18,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Cataloghi'
+project = 'Cataloghi1'
 copyright = '2021, ARPAB'
 author = 'ARPAB'
 
